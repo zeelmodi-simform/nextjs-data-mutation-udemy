@@ -1,3 +1,3 @@
 # Mutating Data - Deep Dive [Section 6]
 
-![  ](image.png)
+![alt text](image.png)

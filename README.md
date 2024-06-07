@@ -1,3 +1,3 @@
-# Mutating Data - Deep Dive [Section 6]
+# NextJS App Optimizations [Section 8]
 
 ![alt text](image.png)
